@@ -1,1 +1,1 @@
-# smartcine_mobile_mock
+# smartcine-mobile
